@@ -12,7 +12,6 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'aongaro+sitemail@gmail.com',
   github: 'https://github.com/ajongaro',
-  twitter: 'https://twitter.com/Twitter',
   youtube: 'https://www.youtube.com/channel/UC8kaYDOdNWMtAipXEKBf55w',
   linkedin: 'https://www.linkedin.com/in/aongaro',
   locale: 'en-US',
